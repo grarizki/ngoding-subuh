@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+
+}
+
+header {
+
+}
+
+section.hero {
+
+
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;       
+}
+.hero-section{
+
+}
