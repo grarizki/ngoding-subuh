@@ -62,6 +62,37 @@ section.hero {
 section.image {
     padding-right: 135px
 }
+
+.menu-search {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#list-search {
+    font-size: 16px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 52px;
+    padding-left: 106px;
+    padding-top: 24px;
+    padding-right: 24px;
+    background-color: #fefefe;
+    z-index: 1;
+    position: absolute;
+    top: 812px;
+}
+
+#list-desc {
+    color: #828282;
+    font-size: 16px;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    padding-right: 24px;
+}
+
 .container{
     display: flex;
     justify-content: space-between;
